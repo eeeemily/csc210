@@ -1,0 +1,12 @@
+	body{padding-top:5%;padding-bottom:5%;width:60%; margin: auto;text-align: center; background-image:url(https://w.wallhaven.cc/full/mp/wallhaven-mpoxxm.png);}
+	div{padding-left:10%; text-align: left}
+	h1{font-family: Comic Sans MS; color:#798391}
+	h2{text-indent:40px; color:purple}
+	h3{font-family: Comic Sans MS; color:#5b7099}
+	p{color: #3e6c8d; font-family:Verdana; line-height:130%; text-indent:25px} 
+	ul{color:#575171; font-weight: bold}
+	ol{color:#575171}
+	
+	footer{color: #575171; font-family:Courier New; font-size:12px; text-align: left;}
+	.center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
+	
